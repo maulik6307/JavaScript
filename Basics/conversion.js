@@ -12,4 +12,4 @@ let scoore = true
 // console.log(typeof scoore)
 let sc = Number(scoore)
 // console.log(sc)
-// console.log(typeof sc)
+console.log(typeof sc)
